@@ -1,0 +1,14 @@
+{
+  "name": "node-fetch-dropin",
+  "version": "1.1.0",
+  "description": "a simple require()'able dropin to node-fetch ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.0.0"
+  }
+}
